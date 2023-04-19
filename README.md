@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/midjourney-header.png
 coverY: 0
-layout: landing
 ---
 
 # Untitled
