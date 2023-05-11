@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Welcome to Midjourney](README.md)
 * [Quick Start Guide](quick-start-guide.md)
 * [Community Guidelines](community-guidelines.md)
 * [Prompts](prompts.md)
