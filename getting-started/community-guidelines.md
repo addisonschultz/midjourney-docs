@@ -46,7 +46,11 @@ Some words and phrases are banned because they produce content that is widely co
 
 Remember that the Midjourney Bot does not understand language the way a human does. For example, the peach emoji 🍑 is currently a banned word, and the prompt, "beautiful 🍑 orchard" would trigger the banned word filter. No one thinks a beautiful orchard of peach trees is offensive or not safe to view at work. However, the 🍑 emoji is also common slang for butts and is often associated with pictures that are NSFW so the actual results of prompting a "beautiful 🍑 orchard" are more problematic than you would initially think.
 
-![MJ\_banned\_prompt\_popup](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_banned\_prompt\_popup.png)
+<div data-full-width="true">
+
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_banned_prompt_popup.png" alt="MJ_banned_prompt_popup">
+
+</div>
 
 Users who repeatedly violate the terms of service may be warned by a community moderator, given a time-out from accessing the bot, or be blocked from the service.
 
