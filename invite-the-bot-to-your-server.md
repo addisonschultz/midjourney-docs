@@ -1,4 +1,4 @@
-# Invite the Bot to Your Server
+# 🤖 Invite the Bot to Your Server
 
 **Invite the Midjourney Bot to any Discord Server to create with friends, or make a personal Discord Server to organize your work.**
 

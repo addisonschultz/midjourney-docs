@@ -4,7 +4,7 @@ description: >-
   Discord Direct Messages.
 ---
 
-# Direct Messages
+# 💬 Direct Messages
 
 Images made within your direct messages are still be subject to content and moderation rules and will be visible on your Midjourney website gallery.
 

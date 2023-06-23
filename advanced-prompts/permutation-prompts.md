@@ -1,4 +1,4 @@
-# Permutation Prompts
+# 📟 Permutation Prompts
 
 **Permutation Prompts allow you to quickly generate variations of a Prompt with a single `/imagine` command. By including lists of options separated with commas `,` within curly braces `{}` in your prompt, you can create multiple versions of a prompt with different combinations of those options.**
 

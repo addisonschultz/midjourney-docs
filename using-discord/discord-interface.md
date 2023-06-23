@@ -5,7 +5,7 @@ description: >-
   announcements, offering feedback, and discu
 ---
 
-# Discord Interface
+# 👾 Discord Interface
 
 #### Midjourney Discord: [`https://discord.gg/midjourney`](https://discord.gg/midjourney)
 

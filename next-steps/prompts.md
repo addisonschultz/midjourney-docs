@@ -5,7 +5,7 @@ description: >-
   into smaller pieces, called tokens, that can be
 ---
 
-# Prompts
+# 🖼 Prompts
 
 ## Structure <a href="#structure" id="structure"></a>
 

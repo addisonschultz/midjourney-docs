@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/midjourney-header.png
-coverY: 0
+cover: .gitbook/assets/header-midjourney (1).png
+coverY: -63.00658823529412
 layout:
   cover:
     visible: true
@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# Untitled
+# Midjourney Documentation
 
 ## <mark style="color:blue;">**Join the Midjourney community on Discord or the Web, where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions.**</mark>
 

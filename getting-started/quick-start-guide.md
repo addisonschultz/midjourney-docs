@@ -4,7 +4,7 @@ description: >-
   simple text prompts.
 ---
 
-# Quick Start Guide
+# 💻 Quick Start Guide
 
 ## Code of Conduct
 

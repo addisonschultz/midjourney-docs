@@ -1,4 +1,4 @@
-# Understanding Image Size
+# 📏 Understanding Image Size
 
 **There are lots of terms for how "big" an image is. Many use words like resolution, file size, pixel count, dots per inch, and high resolution interchangeably. Understanding what these words mean can help you get the results you want from Midjourney images.**
 

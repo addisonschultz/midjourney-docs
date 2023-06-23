@@ -1,4 +1,4 @@
-# Subscription Plans
+# 💲 Subscription Plans
 
 **Midjourney has three subscription tiers. Pay month-to-month or for the entire year for a 20% discount. Each subscription plan includes access to the Midjourney member gallery, the official Discord, general commercial usage terms, and more.**
 

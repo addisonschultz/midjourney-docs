@@ -1,4 +1,4 @@
-# Blend
+# 🎨 Blend
 
 **The `/blend` command allows you to upload 2–5 images quickly and then looks at the concepts and aesthetics of each image and merges them into a novel new image.**
 
