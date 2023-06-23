@@ -21,7 +21,11 @@ layout:
 
 
 
-<mark style="color:blue;">**Join the Midjourney community on Discord or the Web, where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions.**</mark>
+## <mark style="color:blue;">**Join the Midjourney community on Discord or the Web, where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions.**</mark>
+
+{% content-ref url="getting-started/quick-start-guide.md" %}
+[quick-start-guide.md](getting-started/quick-start-guide.md)
+{% endcontent-ref %}
 
 
 

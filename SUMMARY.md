@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Quick Start Guide](getting-started/quick-start-guide.md)
+* [💻 Quick Start Guide](getting-started/quick-start-guide.md)
 * [Community Guidelines](getting-started/community-guidelines.md)
 
 ## Next Steps
