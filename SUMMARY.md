@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Midjourney Documentation](README.md)
 
 ## Getting Started
 
