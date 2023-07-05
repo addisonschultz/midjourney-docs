@@ -1,4 +1,8 @@
 ---
+description: >-
+  Join the Midjourney community on Discord or the Web, where thousands
+  collaborate to create new worlds, fantastic characters, and unique imagery
+  from short text descriptions.
 cover: .gitbook/assets/header-midjourney (1).png
 coverY: -63.00658823529412
 layout:
@@ -6,9 +10,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
@@ -18,10 +22,6 @@ layout:
 ---
 
 # Midjourney Documentation
-
-## **Midjourney Documentation**
-
-Join the Midjourney community on Discord or the Web, where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions.
 
 <table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Learn how to use Discord to work with the Midjourney Bot.</td><td><a href=".gitbook/assets/started-transp.png">started-transp.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Using Discord</strong></td><td>Explore the basics of prompt writing and creating images.</td><td><a href=".gitbook/assets/discord-transp.png">discord-transp.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>User Guide</strong></td><td>Learn about versions, parameters, and more.</td><td><a href=".gitbook/assets/guide-transp.png">guide-transp.png</a></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
