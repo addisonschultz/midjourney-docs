@@ -5,7 +5,7 @@
 `--video` only works on image grids, not upscales.\
 `--video` works with Model Versions `1`, `2`, `3`, `test`, and `testp`.
 
-***
+
 
 ### Video Examples <a href="#video-examples" id="video-examples"></a>
 
@@ -17,7 +17,7 @@ _Vibrant California Poppies_
 
 _Botanical Sketch of Fanciful Ferns_
 
-***
+
 
 ### How to Get a Video Link <a href="#how-to-get-a-video-link" id="how-to-get-a-video-link"></a>
 
@@ -40,7 +40,7 @@ Prompt example: `/imagine prompt` `Vibrant California Poppies --video`
 \
 
 
-***
+
 
 ### How to Use the Video Parameter <a href="#how-to-use-the-video-parameter" id="how-to-use-the-video-parameter"></a>
 

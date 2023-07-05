@@ -1,4 +1,4 @@
-# 📄 Terms of Service
+# Terms of Service
 
 **Version Effective Date: Feb 10, 2023**
 

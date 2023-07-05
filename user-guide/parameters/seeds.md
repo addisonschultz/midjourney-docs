@@ -8,7 +8,7 @@
 * Identical `--seed` values using Model Versions `4`, `5`, and `niji` will produce nearly identical images.
 * Seed numbers are not static and should not be relied upon between sessions.
 
-***
+
 
 If no Seed is specified, Midjourney will use a randomly generated seed number, producing a wide variety of options each time a prompt is used.
 
@@ -27,7 +27,7 @@ prompt example: `/imagine prompt` `celadon owl pitcher --seed 123`
 
 ![An example of an image grid made in midjourney V4 with a random seed](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Seed-123\_V4\_.png)
 
-***
+
 
 ### Sameseed Parameter <a href="#sameseed-parameter" id="sameseed-parameter"></a>
 
@@ -64,7 +64,7 @@ prompt example: `/imagine prompt` `celadon owl pitcher --seed 123`
 
 `--seed 12345`
 
-***
+
 
 ### How to Find a Job's Seed Number <a href="#how-to-find-a-job-s-seed-number" id="how-to-find-a-job-s-seed-number"></a>
 
@@ -78,7 +78,7 @@ Find the seed number of a Job in discord by reacting with an ✉️ envelope emo
 
 To get the seed number for a past image, copy the job ID and use the `/show <Job ID #>` command with that ID to revive the Job. You can then react to the newly regenerated Job with an ✉️ envelope emoji.
 
-***
+
 
 ### How To Change Seed Numbers <a href="#how-to-change-seed-numbers" id="how-to-change-seed-numbers"></a>
 

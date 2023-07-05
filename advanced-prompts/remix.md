@@ -4,7 +4,7 @@
 
 `Remix` is an experimental feature that may change or be removed at any time.
 
-***
+
 
 ### Using Remix <a href="#using-remix" id="using-remix"></a>
 
@@ -67,7 +67,7 @@ balloon-animal shaped stack of pumpkins"
 
 vibrant illustrated stack of fruit
 
-***
+
 
 #### Using Parameters with Remix
 
@@ -91,7 +91,7 @@ Only parameters that normally influence variations will work while using Remix:
 
 * Changing aspect ratios with Remix will _stretch_ an image. It will not extend the canvas, add missing details, or fix a bad crop.
 
-***
+
 
 ### How to Activate Remix <a href="#how-to-activate-remix" id="how-to-activate-remix"></a>
 

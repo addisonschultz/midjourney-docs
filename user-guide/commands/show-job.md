@@ -4,7 +4,7 @@
 
 `/show` only works on your own jobs.
 
-***
+
 
 ### Find a Job ID <a href="#find-a-job-id" id="find-a-job-id"></a>
 
@@ -37,7 +37,7 @@ React with the envelope emoji ✉️ to send a completed Job to direct messages.
 
 ![Image showing how to use a Discord Envelope Emoji Reaction to send a job ID to your direct messages](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_EnvelopeResults.jpg)
 
-***
+
 
 ### How to Use Show <a href="#how-to-use-show" id="how-to-use-show"></a>
 

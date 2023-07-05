@@ -10,7 +10,7 @@ description: >-
 
 ![IW\_EmojiReact.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/IW\_EmojiReact.png)
 
-***
+
 
 ### ❌ Cancel and Delete <a href="#cancel-and-delete" id="cancel-and-delete"></a>
 

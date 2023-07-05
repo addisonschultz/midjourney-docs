@@ -4,7 +4,7 @@
 
 ![Image showing the interface of the Midjourney settings command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_settings.jpg)
 
-***
+
 
 `1️⃣ MJ Version 1` `2️⃣ MJ Version 2` `3️⃣ MJ Version 3` `4️⃣ MJ Version 4` `5️⃣ MJ Version 5`
 
@@ -30,7 +30,7 @@ Settings Note
 
 Parameters added to the end of a prompt will override selections made using `/settings`.
 
-***
+
 
 ### Custom Preferences <a href="#custom-preferences" id="custom-preferences"></a>
 
@@ -40,7 +40,7 @@ Create custom options using prefer commands to add commonly used parameters to t
 `/prefer option list` View your current custom options.\
 `/prefer suffix` specify a suffix to add to the end of every prompt.
 
-***
+
 
 #### Prefer Option
 
@@ -62,7 +62,7 @@ Leave the "value" field empty to delete an option.
 
 To delete a custom option, use `/prefer option set` `<name to delete>` and leave the value field blank.
 
-***
+
 
 #### Prefer Suffix
 

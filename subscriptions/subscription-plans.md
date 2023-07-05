@@ -1,4 +1,4 @@
-# 💲 Subscription Plans
+# Subscription Plans
 
 **Midjourney has three subscription tiers. Pay month-to-month or for the entire year for a 20% discount. Each subscription plan includes access to the Midjourney member gallery, the official Discord, general commercial usage terms, and more.**
 
@@ -8,7 +8,7 @@ Use the `/subscribe` command to generate a personal link to the subscription pag
 Or, go to [Midjourney.com/account](https://www.midjourney.com/account/)\
 Or, select `Manage Sub` from the sidebar while logged into the Midjourney website.
 
-***
+
 
 ### Plan Comparison <a href="#plan-comparison" id="plan-comparison"></a>
 
@@ -27,7 +27,7 @@ Or, select `Manage Sub` from the sidebar while logged into the Midjourney websit
 
 * If you have subscribed at any point, you are free to use your images in just about any way you want. If you are a company making more than $1,000,000 USD in gross revenue per year, you must purchase the Pro plan. For complete details please see the Terms of Service
 
-***
+
 
 ### Subscribe to a Plan <a href="#subscribe-to-a-plan" id="subscribe-to-a-plan"></a>
 
@@ -43,7 +43,7 @@ Only payment methods [supported by Stripe](https://stripe.com/docs/payments/card
 Google Pay and Apple Pay are available in some regions.\
 PayPal, wire transfer, and similar methods are not supported.
 
-***
+
 
 ### Manage Your Plan <a href="#manage-your-plan" id="manage-your-plan"></a>
 
@@ -80,7 +80,7 @@ Refunds are available for subscribers who have used less than 1% of their monthl
 
 ![Image of the Midjourney Account Page Refund Dialog box](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_PlanRefund.png)
 
-***
+
 
 ### Buy More Fast Hours <a href="#buy-more-fast-hours" id="buy-more-fast-hours"></a>
 
@@ -90,7 +90,7 @@ Purchase more Fast GPU hours on your [Midjourney account page.](http://www.midjo
 
 Purchased Fast GPU hours do not expire, but you must have an active subscription to use them.
 
-***
+
 
 ### Account Information <a href="#account-information" id="account-information"></a>
 

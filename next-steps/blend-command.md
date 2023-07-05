@@ -6,7 +6,7 @@
 `/blend` works with up to 5 images. To use more than 5 images in a prompt use image prompts with `/imagine`\
 `/blend` does not work with text prompts. To use text and image prompts together, use image prompts and text with `/imagine`
 
-***
+
 
 ### `/blend` Options <a href="#blend-options" id="blend-options"></a>
 
@@ -25,7 +25,7 @@ Blending Tip
 
 For the best results, upload images that are the same aspect ratio as your desired result.
 
-***
+
 
 ### How to Use `/blend` <a href="#how-to-use-blend" id="how-to-use-blend"></a>
 

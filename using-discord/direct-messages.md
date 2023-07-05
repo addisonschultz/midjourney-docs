@@ -4,11 +4,11 @@ description: >-
   Discord Direct Messages.
 ---
 
-# 💬 Direct Messages
+# Direct Messages
 
 Images made within your direct messages are still be subject to content and moderation rules and will be visible on your Midjourney website gallery.
 
-***
+
 
 ### How to Message the Bot <a href="#how-to-message-the-bot" id="how-to-message-the-bot"></a>
 
@@ -28,7 +28,7 @@ Images made within your direct messages are still be subject to content and mode
 
 ![Image showing how to locate the Direct Message in Discord, desktop version](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_DMLocation\_Desktop.png)
 
-***
+
 
 ### Troubleshooting <a href="#troubleshooting" id="troubleshooting"></a>
 

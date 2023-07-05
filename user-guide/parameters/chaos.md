@@ -5,7 +5,7 @@
 `--chaos` accepts values 0–100.\
 The default `--chaos` value is 0.
 
-***
+
 
 ### The Influence of Chaos on Jobs <a href="#the-influence-of-chaos-on-jobs" id="the-influence-of-chaos-on-jobs"></a>
 
@@ -27,7 +27,7 @@ Using extremely high `--chaos` values will produce initial image grids that are 
 
 prompt example: `imagine/ prompt` `watermelon owl hybrid --c 100`
 
-***
+
 
 ### How to Change the Chaos Value <a href="#how-to-change-the-chaos-value" id="how-to-change-the-chaos-value"></a>
 

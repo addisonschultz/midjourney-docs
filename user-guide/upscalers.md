@@ -24,7 +24,7 @@ Midjourney Model 5
 
 The newest Midjourney Model Version 5 produces high-resolution 1024 x1024 px image grids without needing an additional step to upscale each mage. When using Midjourney Model Version 5, the `U1` `U2` `U3` `U4` buttons under each image grid will separate the selected image from the initial image grid.
 
-***
+
 
 ### Regular (Default) Upscaler <a href="#regular-default-upscaler" id="regular-default-upscaler"></a>
 
@@ -38,7 +38,7 @@ The latest default upscaler increases image size while smoothing or refining det
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Upscaler\_Regular2.png)
 
-***
+
 
 ### Light Upscaler <a href="#light-upscaler" id="light-upscaler"></a>
 
@@ -54,7 +54,7 @@ Use the `--uplight` parameter to change the behavior of the `U1` `U2` `U3` `U4` 
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Upscaler\_Light2.png)
 
-***
+
 
 ### Detailed Upscaler <a href="#detailed-upscaler" id="detailed-upscaler"></a>
 
@@ -72,7 +72,7 @@ The Detailed upscaler is the default for Midjourney Model Versions `V1`, `V2`, `
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Upscaler\_Detailed2.png)
 
-***
+
 
 ### Beta Upscaler <a href="#beta-upscaler" id="beta-upscaler"></a>
 
@@ -88,7 +88,7 @@ Use the `--upbeta` parameter to change the behavior of the `U1` `U2` `U3` `U4` u
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Upscaler\_Beta2.png)
 
-***
+
 
 ### Anime Upscaler <a href="#anime-upscaler" id="anime-upscaler"></a>
 
@@ -104,7 +104,7 @@ Use the `--upanime` parameter to change the behavior of the `U1` `U2` `U3` `U4` 
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Upscaler\_Beta2.png)
 
-***
+
 
 ### Remaster <a href="#remaster" id="remaster"></a>
 
@@ -124,7 +124,7 @@ Remaster Notes
 * Inconsistent results with Multi Prompts
 * Does not work with Image Prompts.
 
-***
+
 
 ### How to Switch Upscalers <a href="#how-to-switch-upscalers" id="how-to-switch-upscalers"></a>
 

@@ -5,7 +5,7 @@
 `--version` accepts the values 1, 2, 3, 4, and 5.\
 `--version` can be abbreviated `--v`
 
-***
+
 
 ### Newest Model <a href="#newest-model" id="newest-model"></a>
 
@@ -27,7 +27,7 @@ Prompt: high contrast surreal collage --v 5
 \
 
 
-***
+
 
 ### Current Model <a href="#current-model" id="current-model"></a>
 
@@ -96,7 +96,7 @@ school of fish --style 4b
 
 school of fish --style 4c
 
-***
+
 
 ### Previous Models <a href="#previous-models" id="previous-models"></a>
 
@@ -144,7 +144,7 @@ _busy detailed and abstract_
 
 _low coherency_
 
-***
+
 
 ### Niji Model <a href="#niji-model" id="niji-model"></a>
 
@@ -184,7 +184,7 @@ Notes on the `--niji` model
 Niji does not support the `--stylize` parameter. Use the `/settings` command and select `Style Med` to reset to the default style setting for all `--niji` prompts.\
 Niji supports multi-prompts or image-prompts.
 
-***
+
 
 ### Test Models <a href="#test-models" id="test-models"></a>
 
@@ -221,7 +221,7 @@ Test models only generate two initial grid images when the aspect ratio is 1:1.\
 Test models only generate one initial grid image when the aspect ratio is not 1:1.\
 Words near the front of the prompt may matter more than words near the back.
 
-***
+
 
 ### How to Switch Models <a href="#how-to-switch-models" id="how-to-switch-models"></a>
 

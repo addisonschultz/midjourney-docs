@@ -25,7 +25,7 @@ A Job's cost depends on the following factors:
 
 Use `/info` before and after running a process to see how many of your remaining GPU minutes the generation used.
 
-***
+
 
 ### Fast vs. Relax Mode <a href="#fast-vs-relax-mode" id="fast-vs-relax-mode"></a>
 
@@ -40,7 +40,7 @@ Note!
 By default, images are generated using Fast Mode.\
 When your subscription resets each month, you are automatically switched to Fast Mode.
 
-***
+
 
 ### How to Switch Between Modes <a href="#how-to-switch-between-modes" id="how-to-switch-between-modes"></a>
 

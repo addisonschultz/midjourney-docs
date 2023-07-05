@@ -1,4 +1,4 @@
-# 📟 Permutation Prompts
+# Permutation Prompts
 
 **Permutation Prompts allow you to quickly generate variations of a Prompt with a single `/imagine` command. By including lists of options separated with commas `,` within curly braces `{}` in your prompt, you can create multiple versions of a prompt with different combinations of those options.**
 
@@ -6,7 +6,7 @@ You can use Permutation Prompts to create combinations and permutations involvin
 
 Permutation prompts are only available for Pro Subscribers using Fast mode.
 
-***
+
 
 ### Permutation Prompt Basics <a href="#permutation-prompt-basics" id="permutation-prompt-basics"></a>
 
@@ -25,7 +25,7 @@ The Midjourney Bot processes each Permutation Prompt variation as an individual 
 
 Combo Prompts that create more than five Jobs will show a confirmation message before they begin processing.
 
-***
+
 
 ### Permutation Prompt Examples <a href="#permutation-prompt-examples" id="permutation-prompt-examples"></a>
 
@@ -49,7 +49,7 @@ a naturalist illustration of a rambutan bird
 
 a naturalist illustration of a banana bird
 
-***
+
 
 #### Prompt Parameter Variations
 
@@ -85,7 +85,7 @@ a naturalist illustration of a fruit salad bird --niji
 
 a naturalist illustration of a fruit salad bird --test
 
-***
+
 
 #### Multiple and Nested Permutations
 
@@ -110,7 +110,7 @@ Example: `/imagine prompt` `A {sculpture, painting} of a {seagull {on a pier, on
 `/imagine prompt` `A painting of a poodle on a sofa.`\
 `/imagine prompt` `A painting of a poodle in a truck.`
 
-***
+
 
 #### Escape Character
 

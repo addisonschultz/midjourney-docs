@@ -87,7 +87,7 @@ Switch to Relax mode.
 
 Toggle Remix mode.
 
-***
+
 
 ### Deprecated <a href="#deprecated" id="deprecated"></a>
 

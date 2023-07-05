@@ -5,11 +5,11 @@ description: >-
   announcements, offering feedback, and discu
 ---
 
-# 👾 Discord Interface
+# Discord Interface
 
 #### Midjourney Discord: [`https://discord.gg/midjourney`](https://discord.gg/midjourney)
 
-***
+
 
 ### Discord Interface <a href="#discord-interface" id="discord-interface"></a>
 
@@ -45,7 +45,7 @@ The bot that produces images with the `/imagine` command
 **Moderators and Guides**\
 Moderators and Guides can help with billing and technical problems in the support channels.
 
-***
+
 
 ### Image Grids <a href="#image-grids" id="image-grids"></a>
 
@@ -65,7 +65,7 @@ The `/imagine` command produces a grid of low-resolution image options based on 
 
 `V1` `V2` `V3` `V4` V buttons create incremental variations of the selected grid image. Creating a variation generates a new image grid similar to the chosen image's overall style and composition.
 
-***
+
 
 ### Upscaled Images <a href="#upscaled-images" id="upscaled-images"></a>
 
@@ -85,21 +85,21 @@ Redo the image using a different upscaler
 
 `😖` `😒` `🙂` `😍` Rate images you love or hate with the emojis. Images rated highly may appear on the trending section of the Midjourney website. Subscribers can earn a free Fast GPU hour daily by rating images. A bonus Fast hour is awarded to the top 1000 raters each day.
 
-***
+
 
 ### Direct Messages <a href="#direct-messages" id="direct-messages"></a>
 
 If the #general or #newbie channels are moving too fast, Midjouney subscribers can work one-on-one with the Midjourney Bot in their Discord Direct Messages.\
 Learn how to direct message the Midjourney Bot
 
-***
+
 
 ### Emoji Reactions <a href="#emoji-reactions" id="emoji-reactions"></a>
 
 React with different emojis to Midjourney Jobs to send images to your Direct Messages, cancel a job in progress, or delete an image.\
 Learn how to use emoji reactions.
 
-***
+
 
 ### Daily Theme Channel <a href="#daily-theme-channel" id="daily-theme-channel"></a>
 

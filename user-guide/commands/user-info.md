@@ -36,7 +36,7 @@ Lists all Jobs queued to run. A maximum of seven jobs can be queued at the same 
 
 Lists all Jobs currently running. A maximum of three jobs can run at the same time.
 
-***
+
 
 ### Use the Info Command <a href="#use-the-info-command" id="use-the-info-command"></a>
 

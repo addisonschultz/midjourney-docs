@@ -11,7 +11,7 @@ Different Midjourney Version Models have different stylize ranges.
 | Stylize default | 100       | 100       | 2500      | 2500         | NA   |
 | Stylize Range   | 0–1000    | 0–1000    | 625–60000 | 1250–5000    | NA   |
 
-***
+
 
 ### Common Stylize Settings <a href="#common-stylize-settings" id="common-stylize-settings"></a>
 
@@ -43,7 +43,7 @@ prompt example: `/imagine prompt` `illustrated figs --s 100`
 
 `🖌️ Style Very High`
 
-***
+
 
 #### Midjourney Model V5
 
@@ -73,7 +73,7 @@ prompt example: `/imagine prompt` `colorful risograph of a fig --s 100`
 
 ![Midjourney style parameter example. Image of the prompt colorful risograph of a fig stylize=1000](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_V5\_Stylize\_1000.jpg)
 
-***
+
 
 ### How to Switch Stylization Values <a href="#how-to-switch-stylization-values" id="how-to-switch-stylization-values"></a>
 

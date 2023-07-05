@@ -10,7 +10,7 @@ Using an Apple device?
 
 Many apple devices automatically change double hyphens (--) to an em-dash (—). Midjourney accepts both!
 
-***
+
 
 ### Basic Parameters <a href="#basic-parameters" id="basic-parameters"></a>
 
@@ -130,7 +130,7 @@ These parameters only work with specific earlier Midjourney Models
 
 `--video` Saves a progress video of the initial image grid being generated. Emoji react to the completed image grid with ✉️ to trigger the video being sent to your direct messages. `--video` does not work when upscaling an image.
 
-***
+
 
 ### Compatibility <a href="#compatibility" id="compatibility"></a>
 
@@ -152,7 +152,7 @@ These parameters only work with specific earlier Midjourney Models
 | Video                 | ✓                          |                            |                              |                              | ✓                                 |                                   |            |
 | Number of Grid Images | -                          | -                          | 4                            | 4                            | 4                                 | 2 (1 when aspect ratio≠1:1)       |            |
 
-***
+
 
 #### Deprecated Parameters
 

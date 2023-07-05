@@ -5,7 +5,7 @@
 Bonus hours expire 30 days from the date they are awarded.\
 You must have an active subscription to participate.
 
-***
+
 
 ### How to Rate Images <a href="#how-to-rate-images" id="how-to-rate-images"></a>
 
@@ -27,4 +27,3 @@ You can see how many hours you have earned rating images on your [Midjourney.com
 
 ![Image showing the location of Midjourney bonus hours on the accounts page.](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_BonusHours.png)
 
-***

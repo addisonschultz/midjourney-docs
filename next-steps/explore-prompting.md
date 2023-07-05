@@ -37,7 +37,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 **Cross Stitch** ![Example Midjourney image of a cross stitch cat](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_cat\_crossStitch.jpeg)
 
-***
+
 
 ### Get Specific <a href="#get-specific" id="get-specific"></a>
 
@@ -57,7 +57,7 @@ prompt example: `/imagine prompt` `<style> sketch of a cat`
 
 **Charcoal Sketch** ![Example Midjourney image of a charcoal sketch of a cat](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_cat\_Charcoal.jpeg)
 
-***
+
 
 ### Time Travel <a href="#time-travel" id="time-travel"></a>
 
@@ -92,7 +92,7 @@ prompt example: `/imagine prompt` `<decade> cat illustration`
 \
 
 
-***
+
 
 ### Emote <a href="#emote" id="emote"></a>
 
@@ -115,7 +115,7 @@ prompt example: `/imagine prompt` `<emotion> cat`
 \
 
 
-***
+
 
 ### Get Colorful <a href="#get-colorful" id="get-colorful"></a>
 
@@ -150,7 +150,7 @@ prompt example: `/imagine prompt` `<color word> colored cat`
 \
 
 
-***
+
 
 ### Enviromental Exploration <a href="#enviromental-exploration" id="enviromental-exploration"></a>
 

@@ -9,7 +9,7 @@ The default aspect ratio is 1:1.\
 The aspect ratio impacts the shape and composition of a generated image.\
 Some aspect ratios may be slightly changed when upscaling.
 
-***
+
 
 #### Max Aspect Ratios
 
@@ -34,7 +34,7 @@ prompt example: `imagine/ prompt` `vibrant california poppies --ar 5:4`
 `--aspect 3:2` Common in print photography.\
 `--aspect 7:4` Close to HD TV screens and smartphone screens.
 
-***
+
 
 ### How to Change the Aspect Ratio <a href="#how-to-change-the-aspect-ratio" id="how-to-change-the-aspect-ratio"></a>
 

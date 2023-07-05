@@ -1,4 +1,4 @@
-# 🤖 Invite the Bot to Your Server
+# Invite the Bot to Your Server
 
 **Invite the Midjourney Bot to any Discord Server to create with friends, or make a personal Discord Server to organize your work.**
 
@@ -12,7 +12,7 @@ Images generated on private servers are still visible to other users on [midjour
 
 To use the Midjourney Bot in any server, users must have an active Midjourney trial or subscription. Using `/imagine` for the first time will automatically begin a trial membership for new users.
 
-***
+
 
 ### How to Add The Bot <a href="#how-to-add-the-bot" id="how-to-add-the-bot"></a>
 
@@ -26,7 +26,7 @@ Select the server you want to add it to, then follow the directions in discord.
 Authorize and confirm you are adding an external application.\
 If you don't see your server listed, follow the instructions below to create an Administrator Role.
 
-***
+
 
 ### Bot Management <a href="#bot-management" id="bot-management"></a>
 

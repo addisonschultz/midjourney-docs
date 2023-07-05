@@ -5,7 +5,7 @@ description: >-
   into smaller pieces, called tokens, that can be
 ---
 
-# 🖼 Prompts
+# Prompts
 
 ## Structure <a href="#structure" id="structure"></a>
 
@@ -37,7 +37,7 @@ Parameters change how an image generates. Parameters can change aspect ratios, m
 
 Read more about Parameters
 
-***
+
 
 ## Prompting Notes <a href="#prompting-notes" id="prompting-notes"></a>
 

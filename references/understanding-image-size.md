@@ -1,10 +1,10 @@
-# 📏 Understanding Image Size
+# Understanding Image Size
 
 **There are lots of terms for how "big" an image is. Many use words like resolution, file size, pixel count, dots per inch, and high resolution interchangeably. Understanding what these words mean can help you get the results you want from Midjourney images.**
 
 This guide is a simplified, non-technical, easy-to-understand explanation of image size, dimensions, resolutions, and DPI.
 
-***
+
 
 ### Image Size Basics <a href="#image-size-basics" id="image-size-basics"></a>
 
@@ -37,7 +37,7 @@ The boat.jpg image might be a great size on a vintage flip phone, fine on your t
 
 _The same image dimension is seen on multiple screens._
 
-***
+
 
 ### DPI Dots Per Inch <a href="#dpi-dots-per-inch" id="dpi-dots-per-inch"></a>
 
@@ -60,7 +60,7 @@ For this example, you have a 1200x1200 pixel image. What DPI is that image? It d
 1200/150 = 8. A 1200x1200 pixel image would produce an OK-looking 8in x 8in image.\
 1200/100 = 12. A 1200x1200 pixel image would produce a pretty bad looking 12in x 12in image.
 
-***
+
 
 ### Midjourney Image Sizes <a href="#midjourney-image-sizes" id="midjourney-image-sizes"></a>
 

@@ -7,7 +7,7 @@ The default `--quality` value is 1. Higher values use more of your subscription'
 `--quality` only influences the initial image generation.\
 `--quality` works with Model Versions 1, 2, 3, 4, 5 and niji.
 
-***
+
 
 ### Quality Settings <a href="#quality-settings" id="quality-settings"></a>
 
@@ -79,7 +79,7 @@ the default setting
 
 _Well balanced between detail and speed_
 
-***
+
 
 #### Version Quality Compatibility
 
@@ -92,7 +92,7 @@ _Well balanced between detail and speed_
 | Version 1     | ✓           | ✓          | ✓         | ✓         |
 | niji          | ✓           | ✓          | ✓         | -         |
 
-***
+
 
 ### How to Use the Quality Parameter <a href="#how-to-use-the-quality-parameter" id="how-to-use-the-quality-parameter"></a>
 

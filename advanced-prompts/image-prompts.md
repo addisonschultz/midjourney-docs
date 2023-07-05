@@ -12,7 +12,7 @@ An image URL must be a direct link to an online image.\
 In most browsers, right-click or long-press an image and select Copy Image Address to get the URL.\
 The `/blend` command is a simplified image prompting process optimized for mobile users.
 
-***
+
 
 ### Upload an image to Discord <a href="#upload-an-image-to-discord" id="upload-an-image-to-discord"></a>
 
@@ -25,7 +25,7 @@ Privacy Notes
 Upload images in your Direct Messages with the Midjourney Bot to prevent other server users from seeing an image.\
 Image prompts are visible on the Midjourney website unless a user has Stealth Mode.
 
-***
+
 
 ### Examples <a href="#examples" id="examples"></a>
 
@@ -53,7 +53,7 @@ Hokusai's The Great Wave
 
 #### Midjourney Model Version 4
 
-***
+
 
 #### Midjourney Model Version 5
 
@@ -61,7 +61,7 @@ Aspect Ratio Tip
 
 Crop images to the same aspect ratio as your final image for the best results.
 
-***
+
 
 ### Image Weight Parameter <a href="#image-weight-parameter" id="image-weight-parameter"></a>
 

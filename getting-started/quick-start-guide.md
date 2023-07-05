@@ -4,7 +4,7 @@ description: >-
   simple text prompts.
 ---
 
-# 💻 Quick Start Guide
+# Quick Start Guide
 
 ## Code of Conduct
 
@@ -23,11 +23,19 @@ Discord Accounts
 Before joining the Midjourney Discord server, you must have a **verified** Discord login.\
 [Learn how to create your account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started). or [Learn how to verify your account](https://support.discord.com/hc/en-us/articles/6181726888215).
 
-![image of the midjourney.com "join the beta" button](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_Homepage.png)
+<div data-full-width="false">
+
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Homepage.png" alt="image of the midjourney.com &#x22;join the beta&#x22; button">
+
+</div>
 
 ### **2:** Find a _Newbies_ Channel <a href="#2-find-a-newbies-channel" id="2-find-a-newbies-channel"></a>
 
-![Image of the Sidebar for Midjourney's Discord server highlighting the newbie channels.](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ\_NewbiesChannel.png)
+<div data-full-width="false">
+
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_NewbiesChannel.png" alt="Image of the Sidebar for Midjourney&#x27;s Discord server highlighting the newbie channels.">
+
+</div>
 
 #### On the Midjourney Official Server
 

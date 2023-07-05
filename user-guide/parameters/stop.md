@@ -6,7 +6,7 @@
 The default `--stop` value is 100.\
 `--stop` does not work while Upscaling.
 
-***
+
 
 ### Stop Comparison <a href="#stop-comparison" id="stop-comparison"></a>
 
@@ -52,7 +52,7 @@ prompt example: `/imagine prompt` `splatter art painting of acorns --stop 90`
 
 \--stop 100
 
-***
+
 
 ### Stops affect on Upscaling <a href="#stops-affect-on-upscaling" id="stops-affect-on-upscaling"></a>
 
@@ -74,7 +74,7 @@ The `--stop` parameter does not affect a Job while upscaling. However, stopping 
 
 \--stop 100
 
-***
+
 
 ### How to Change the Stop Percentage <a href="#how-to-change-the-stop-percentage" id="how-to-change-the-stop-percentage"></a>
 

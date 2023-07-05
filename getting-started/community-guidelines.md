@@ -14,7 +14,7 @@ description: >-
 
 These rules apply to all content, including images made in private servers, using Private Mode, and in direct messages with the Midjourney Bot. See the Discord [#rules](https://discord.com/channels/662267976984297473/964598182225002516) channel for the most up-to-date information.
 
-***
+
 
 ### Notes <a href="#notes" id="notes"></a>
 
@@ -30,7 +30,7 @@ Avoid nudity, sexual organs, fixation on naked breasts, people in showers or on 
 
 Other things may be deemed offensive or abusive because they can be viewed as racist, homophobic, disturbing, or in some way derogatory to a community. This includes naked children and offensive images of celebrities or public figures. Content guidelines are continually reviewed and may be modified as the Midjourney community grows.
 
-***
+
 
 ### Automatically Banned Keywords <a href="#automatically-banned-keywords" id="automatically-banned-keywords"></a>
 
@@ -54,7 +54,7 @@ Remember that the Midjourney Bot does not understand language the way a human do
 
 Users who repeatedly violate the terms of service may be warned by a community moderator, given a time-out from accessing the bot, or be blocked from the service.
 
-***
+
 
 ### Self-Policing and Reporting <a href="#self-policing-and-reporting" id="self-policing-and-reporting"></a>
 
