@@ -65,4 +65,3 @@
 
 * [Terms of Service](policies/terms-of-service.md)
 * [Privacy Policy](policies/privacy-policy.md)
-* [Demo](policies/demo.md)
