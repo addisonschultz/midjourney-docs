@@ -6,7 +6,7 @@ There are two ways to experience the tools: the Midjourney Bot, which you can us
 
 You can use our Midjourney Bot on our official Discord server ([https://discord.gg/midjourney](https://discord.gg/midjourney)) as well as on any other Discord server where it has been set up. If you wish to invite the bot to your own community, follow the instructions on this page: [Use Midjourney on your own Discord Server](use-midjourney-on-your-own-discord-server.md).
 
-New Line
+<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 ## Code of Conduct
 
