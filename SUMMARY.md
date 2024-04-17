@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Quick Start Guide](README.md)
+* [Quick Start](README.md)
 * [User Manual](user-manual.md)
 * [Frequently Asked Questions](faqs.md)
 * [Imagine Parameters Illustrated](imagine-parameters.md)
