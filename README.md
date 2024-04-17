@@ -1,4 +1,4 @@
-# Quick Start Guide
+# Quick Start
 
 Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
